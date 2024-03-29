@@ -10,11 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **ride_share web app**
+ 🔭 I’m currently working on **ride_share web application**
  
- 🌱 I’m currently learning **Dart, React Native**
+ 🧑‍💻 I’m looking to collaborate on open source projects
 
- 💬 Ask me about **Php,Laravel,Dart,Flutter and Javascript**
+ 💬 Ask me about **Php, Laravel, Dart, Flutter and Javascript**
+
+ ⚡ Fun fact: I am amateur sfx artist 👻
 
  
  </div>
@@ -40,7 +42,7 @@
 
 <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
 <div align="center">
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhooPyaeSone&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
