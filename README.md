@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a frontend developer
- 
- 🧑‍💻 I’m looking to collaborate on open source projects
+ 🔭 I’m software developer
 
  💬 Ask me about **Php, Laravel, Dart, Flutter and Javascript**
 
