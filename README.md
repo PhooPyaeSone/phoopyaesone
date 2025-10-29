@@ -9,8 +9,6 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m software developer
 
  💬 Ask me about **Php, Laravel, Dart, Flutter and Javascript**
 
