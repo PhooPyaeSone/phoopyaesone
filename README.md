@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently as a frontend developer
+ 🔭 I’m currently working as a frontend developer
  
  🧑‍💻 I’m looking to collaborate on open source projects
 
